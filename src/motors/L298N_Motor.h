@@ -21,7 +21,7 @@ namespace motor
         void stopMotor();
 
         void setMotorDirection(boolean inverted);
-    }
+    };
 }
     
 
